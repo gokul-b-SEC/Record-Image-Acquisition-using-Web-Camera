@@ -153,28 +153,34 @@ cap.release()
 
 The captured webcam frame is successfully saved as `WIN_20260723_19_14_37_Pro.jpg`.
 
-<img width="598" height="467" alt="image" src="https://github.com/user-attachments/assets/44f8f535-7455-4a95-83c1-10b854ec0021" />
+<img width="512" height="409" alt="image" src="https://github.com/user-attachments/assets/e0fbe0fe-82b2-4822-9ec3-0a37559cec13" />
+
+
 
 
 ### ii) Display the video
 
 The live webcam video is displayed successfully.
 
-<img width="555" height="430" alt="image" src="https://github.com/user-attachments/assets/728aae2d-68eb-4026-a461-8948fbe9e61c" />
+<img width="512" height="389" alt="image" src="https://github.com/user-attachments/assets/eb862b36-0d27-4e56-8833-246233da58a9" />
+
+
 
 
 ### iii) Display the video by resizing the window
 
 The webcam video is displayed after resizing the frame.
 
-<img width="412" height="442" alt="image" src="https://github.com/user-attachments/assets/f8cd2276-a0e0-4543-8797-028a52e42bdc" />
+<img width="266" height="389" alt="image" src="https://github.com/user-attachments/assets/c81a77ba-78bf-4a80-a774-0973580357a5" />
+
 
 
 ### iv) Rotate and display the video
 
 The webcam video is successfully rotated by 90° clockwise and displayed.
 
-<img width="322" height="438" alt="image" src="https://github.com/user-attachments/assets/735cdd79-7092-4e4e-a22a-60449e5ed38e" />
+<img width="297" height="389" alt="image" src="https://github.com/user-attachments/assets/cbf9df34-79cd-4aca-8be8-aa0da444c1b4" />
+
 
 
 ---
